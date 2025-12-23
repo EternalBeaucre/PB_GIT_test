@@ -1,1 +1,0 @@
-net use \\220.118.68.4\photo otohpcnb /user:bnc_photo

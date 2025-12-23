@@ -1,0 +1,15 @@
+워크스페이스와 타겟 파일 경로
+
+1. 워크스페이스 
+   C:\Eternal 				EternalGroup.pbw
+
+2. 타겟 경로
+   C:\Eternal\bnc_cust			bnc_cust.pbt
+   C:\Eternal\Bnc_dept			beaucre.pbt
+   C:\Eternal\bnc_kola			kola.pbt
+   C:\Eternal\bnc_MasterFile		bnc_masterfile.pbt
+   C:\Eternal\bnc_mat			bnc_mat.pbt
+   C:\Eternal\bnc_shop		bnc_shop.pbt
+   C:\Eternal\bnc_smat		bnc_smat.pbt
+   C:\Eternal\Eternal_dept		eternal.pbt
+   C:\Eternal\Eternal_shop		eternal_shop.pbt
